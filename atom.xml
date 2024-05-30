@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bless</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-05-30T13:52:52.459Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="http://example.com/2024/05/30/aboutme/"/>
+    <id>http://example.com/2024/05/30/aboutme/</id>
+    <published>2024-05-30T13:18:38.000Z</published>
+    <updated>2024-05-30T13:52:52.459Z</updated>
+    
+    <content type="html"><![CDATA[<center><font size="8" face="华文行楷"> 徐昕宇  </font>  <font size="8" face = "Gabriola"> <b> Xinyu Xu </b>  </font> </center> <p>I’m a second-year master student in Department of Computer Science and Engineering (CSE), School of Electronic Information and Electrical Engineering (SEIEE), Shanghai Jiao Tong University (SJTU).</p><p>I do research in MVIG lab advised by <a href="https://mvig-rhos.com/">Prof. Yong-Lu Li</a> and <a href="https://mvig.sjtu.edu.cn/">Prof. Cewu Lu</a>. I was a research intern in Tencent Robotics-X lab. My research interests include embodied AI, robotics and computer vision. </p><div>&#x1F92A; &#x1F590; &#x1F4AA; &#x1F47B; </div> <br/><h2 id="News"><a href="#News" class="headerlink" title="News!"></a><font color = '#cc0000'>News!</font></h2><p><strong>[Jul. 2023]</strong> One paper is accepted by IJCV.<br><strong>[Jul. 2023]</strong> One paper is accepted by ICCV 2023.<br><strong>[Jun. 2022]</strong> I won Best Bachelor Thesis in SJTU.<br><strong>[Mar. 2022]</strong> One paper is accepted by CVPR 2022.<br><strong>[Oct. 2021]</strong> One paper is accepted by IEEE T’PAMI.<br><strong>[Sept. 2021]</strong> Awarded National Scholarship! Thanks!</p><h2 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h2><ul><li><p><strong>Shanghai Jiao Tong University</strong> (2018.09 - 2022.06)<br>  Department of Computer Science and Engineering, SEIEE.<br>  Engineering Honor Program, Zhiyuan College.</p><p>  B.Eng. student major in Computer Science and Technology.</p></li><li><p><strong>Shanghai Jiao Tong University</strong> (2022.09 - 2025.03 Expected)<br>  Department of Computer Science and Engineering, SEIEE.</p><p>  M.Eng. student major in Computer Science and Technology.</p></li></ul><h2 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h2><html> <body>    <div><img src="../figs/IJCV.png" width = "120px" height ='80px' align = "left">    </div>    <div>    &nbsp &nbsp  <b>Dynamic Context Removal: A General Training Strategy for Robust <br/>    &nbsp &nbsp  Models on Video Action Predictive Tasks </b> <br/>    &nbsp &nbsp  <b>Xinyu Xu</b>, Yong-Lu Li, Cewu Lu <br/>    &nbsp &nbsp  IJCV 2023 <br/><br/><br/>    </div> </body>  <body>    <div><img src="../figs/ocl.png" width = "120px" height ='80px' align = "left">    </div>    <div>    &nbsp &nbsp  <b>Beyond Object Recognition: A New Benchmark towards Object  <br/>    &nbsp &nbsp  Concept Learning </b> <br/>    &nbsp &nbsp  Yong-Lu Li, Yue Xu, <b>Xinyu Xu</b>, Xiaohan Mao, Yuan Yao, Siqi Liu, Cewu Lu <br/>    &nbsp &nbsp  ICCV 2023 <br/><br/><br/>    </div> </body> <body>    <div><img src="../figs/DCR.png" width = "120px" height ='80px' align = "left">    </div>    <div>    &nbsp &nbsp  <b>Learning to Anticipate Future with Dynamic Context Removal </b> <br/>    &nbsp &nbsp  <b>Xinyu Xu</b>, Yong-Lu Li, Cewu Lu <br/>    &nbsp &nbsp  CVPR 2022 <br/><br/><br/>    </div> </body> <body>    <div><img src="../figs/symnet.png" width = "120px" height ='80px' align = "left">    </div>    &nbsp &nbsp  <b>Learning Single/Multi-Attribute of Object with Symmetry and Group</b> <br/>    &nbsp &nbsp  Yong-Lu Li, Yue Xu, <b>Xinyu Xu </b>, Xiaohan Mao, Cewu Lu <br/>    &nbsp &nbsp  IEEE T'PAMI 2022  <br/><br/><br/> </body></html><h2 id="Services"><a href="#Services" class="headerlink" title="Services"></a>Services</h2><h4 id="Academic-Services"><a href="#Academic-Services" class="headerlink" title="Academic Services"></a>Academic Services</h4><p>Conference Reviewer: CVPR 2022-24, ECCV 2022-24, ICCV 2023, NeurIPS 2024.</p><h4 id="Teaching-Services"><a href="#Teaching-Services" class="headerlink" title="Teaching Services"></a>Teaching Services</h4><p>2021 Spring, Data Structure (Honor), Teaching Assistant.<br>2022 Spring, Data Structure (Honor), Teaching Assistant.</p><h2 id="Honors-and-Awards"><a href="#Honors-and-Awards" class="headerlink" title="Honors and Awards"></a>Honors and Awards</h2><ul><li><span style="text-align:left;">SJTU Best Bachelor Thesis<span style="float:right;">2022</span><br></li><li><span style="text-align:left;">Zhiyuan Outstanding Student Scholarship<span style="float:right;">2022</span><br></li><li><span style="text-align:left;">Zhiyuan Honor Degree of Bachelor of Engineering<span style="float:right;">2022</span><br></li><li><span style="text-align:left;">Weichai Power Scholarship<span style="float:right;">2023</span><br></li><li><span style="text-align:left;">SJTU Outstanding Graduate<span style="float:right;">2022</span><br></li><li><span style="text-align:left;">National Scholarship<span style="float:right;">2021</span><br></li><li><span style="text-align:left;">Zhiyuan Honor Scholarship <span style="float:right;">2019 &amp; 2020 &amp; 2021</span><br></li><li><span style="text-align:left;">SJTU Undergraduate Merit Scholarship<span style="float:right;">2019 &amp; 2020 &amp; 2021</span><br></li><li><span style="text-align:left;">Fushou Li Sieyuan Scholarship (Special-class)<span style="float:right;">2019</span><br></li><li><span style="text-align:left;">Finalist Award in the Interdisciplinary Contest in Modeling (ICM)<span style="float:right;">2020</span><br></li><li><span style="text-align:left;">First Prize in National College Student Mathematical Contest<span style="float:right;">2019 &amp; 2020</span><br></li></ul><h2 id="Interests"><a href="#Interests" class="headerlink" title="Interests"></a>Interests</h2><div> <b>Sports</b>: Soccer &#x26BD;, Tennis &#x1F94E; </div><div> <b>Games</b>:  CS:GO &#x1F4A3;, DOTA2 &#x1F4BB;, Mahjong &#x1F004;, Holdem &#x1F0CF; </div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;center&gt;&lt;font size=&quot;8&quot; face=&quot;华文行楷&quot;&gt; 徐昕宇  &lt;/font&gt;  &lt;font size=&quot;8&quot; face = &quot;Gabriola&quot;&gt; &lt;b&gt; Xinyu Xu &lt;/b&gt;  &lt;/font&gt; &lt;/center&gt; 
+
+
+&lt;p&gt;I’m a second-</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
